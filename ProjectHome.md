@@ -1,0 +1,1 @@
+A lightweight app that retreives metadata about recognised clipboard data such as movies and tv shows.  Data is retrieved from public webservices, and clipboard content is identified heuristically.
